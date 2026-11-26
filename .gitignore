@@ -1,0 +1,16 @@
+# 编译临时文件
+_build/
+*.aux
+*.log
+*.synctex.gz
+
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 本地大型素材（不属于本仓库）
+*.tar.gz
+GRH源码/
+工具/
+审校资料/
